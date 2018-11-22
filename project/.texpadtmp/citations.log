@@ -1,0 +1,65 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdftex 2017.5.23)  15 NOV 2018 12:39
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**citations.bib
+(./citations.bib
+./citations.bib:15: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.15 @article{interp_
+                     rnn,
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./citations.bib:20: Extra }, or forgotten $.
+l.20 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./citations.bib:53: Please use \mathaccent for accents in math mode.
+\'#1->{\accent 
+               19 #1}
+l.53   author    = {Marco T{\'{u}
+                                 }lio Ribeiro and
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./citations.bib:72: Please use \mathaccent for accents in math mode.
+\'#1->{\accent 
+               19 #1}
+l.72     Mart\'{\i}
+                   n~Abadi and
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./citations.bib:92: Please use \mathaccent for accents in math mode.
+\'#1->{\accent 
+               19 #1}
+l.92     Dandelion~Man\'{e}
+                            and
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./citations.bib:105: Please use \mathaccent for accents in math mode.
+\'#1->{\accent 
+               19 #1}
+l.105     Fernanda~Vi\'{e}
+                          gas and
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+)
+! Emergency stop.
+<*> citations.bib
+                 
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!

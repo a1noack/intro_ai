@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{tensorflow}
+Mart\'{\i}n Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen,
+  Craig Citro, Greg~S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin,
+  Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard,
+  Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh
+  Levenberg, Dandelion Man\'{e}, Rajat Monga, Sherry Moore, Derek Murray, Chris
+  Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal
+  Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vi\'{e}gas,
+  Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and
+  Xiaoqiang Zheng.
+\newblock {TensorFlow}: Large-scale machine learning on heterogeneous systems,
+  2015.
+\newblock Software available from tensorflow.org.
+
+\bibitem{interp_rnn}
+Zhi-Hua~Zhou Bo-Jian~Hou.
+\newblock Learning with interpretable structure from rnn.
+\newblock {\em National Key Laboratory for Novel Software Technology}, 2018.
+
+\bibitem{L2X}
+Jianbo Chen, Le~Song, Martin~J. Wainwright, and Michael~I. Jordan.
+\newblock Learning to explain: An information-theoretic perspective on model
+  interpretation.
+\newblock {\em CoRR}, abs/1802.07814, 2018.
+
+\bibitem{LIME}
+Marco~T{\'{u}}lio Ribeiro, Sameer Singh, and Carlos Guestrin.
+\newblock "why should {I} trust you?": Explaining the predictions of any
+  classifier.
+\newblock {\em CoRR}, abs/1602.04938, 2016.
+
+\bibitem{VIA}
+Sebastian Thrun.
+\newblock Extracting rules from artificial neural networks with distributed
+  representations.
+\newblock In {\em Proceedings of the 7th International Conference on Neural
+  Information Processing Systems}, NIPS'94, pages 505--512, Cambridge, MA, USA,
+  1994. MIT Press.
+
+\bibitem{anchors}
+T.~{Yang}, X.~{Zhang}, Z.~{Li}, W.~{Zhang}, and J.~{Sun}.
+\newblock {MetaAnchor: Learning to Detect Objects with Customized Anchors}.
+\newblock {\em ArXiv e-prints}, July 2018.
+
+\end{thebibliography}
